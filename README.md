@@ -1,1 +1,2 @@
-# scraping_python
+# Scraping via Python.
+# Shopify, Api Request included
